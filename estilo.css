@@ -23,7 +23,7 @@ h2 {
     font-family: 'Courier New';
     color: green;
 }
-botao {
+.botao {
     background-color: green;
     border-radius: 50px;
     align-itens: center;
